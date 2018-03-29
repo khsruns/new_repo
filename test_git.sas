@@ -20,3 +20,6 @@ run;
 proc print data=avg_salary;
 var salary;
 run;
+
+Proc contents;
+run;
